@@ -1,3 +1,5 @@
+# Prepare
+
 The goal of this phase is the investigate the candidate applications for migration to the cloud.
 
   * Make a list of candidate applications
