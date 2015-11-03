@@ -1,3 +1,5 @@
+# Architect
+
 The goal of this phase is to start thinking about the architecture of the applications (in each phase) that are going to migrate to the cloud. Do this step twice, once for the Alpha phase, and once for the Beta phase.
 
 ## Determine list of services
