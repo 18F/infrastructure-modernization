@@ -6,11 +6,11 @@ The cloud migration is broken down into four major:
 
 Each of the active migraiton phases `alpha`, `beta`, and `Live` requires execution of three key activities:
 
-  * [Prepare](https://github.com/18F/infrastructure-modernization/wiki/Prepare)
+  * [Prepare](./Prepare/README.md)
 
-  * [Architect](https://github.com/18F/infrastructure-modernization/wiki/Architect)
+  * [Architect](./Architect/README.md)
 
-  * [Deploy](https://github.com/18F/infrastructure-modernization/wiki/Deploy)
+  * [Deploy](./Deploy/README.md)
 
 The four phases are:
 
