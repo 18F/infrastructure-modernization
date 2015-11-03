@@ -46,9 +46,7 @@ Common components of the cloud infrastructure will likely become the responsibil
 
 Determine the common components of the cloud infrastructure.
 
-### Questions 
-
-Some examples to ask:
+### Questions, some *examples* to ask: 
 
   * Does everything need to be routed through the Trusted Internet Connection (TIC)?
   * Does everything need to be routed through a VPN?
