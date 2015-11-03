@@ -2,17 +2,7 @@
 Documentation of a plan to take an agency into using a cloud-based infrastructure.
 
 # Overall Approach
-The cloud migration is broken down into four major:
-
-Each of the active migraiton phases `alpha`, `beta`, and `Live` requires execution of three key activities:
-
-  * [Prepare](./Prepare/README.md)
-
-  * [Architect](./Architect/README.md)
-
-  * [Deploy](./Deploy/README.md)
-
-The four phases are:
+The cloud migration is broken down into four major phased:
 
 1. Discovery: The goal is to inventory the applications and services the agency wants to migrate.
 
@@ -26,3 +16,12 @@ The four phases are:
   * Post-Beta metrics baseline
 
 4. Live: The system graduates to production status, and the focus shifts to improving key performance metrics. Deploying applications into the cloud is now normal operating procedure.
+
+# Three Key Activities
+Each of the active migration phases `alpha`, `beta`, and `Live` requires execution of three key activities:
+
+  * [Prepare](./Prepare/README.md)
+
+  * [Architect](./Architect/README.md)
+
+  * [Deploy](./Deploy/README.md)
