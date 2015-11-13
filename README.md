@@ -17,7 +17,7 @@ The cloud migration is broken down into four major phased:
 
 4. Live: The system graduates to production status, and the focus shifts to improving key performance metrics. Deploying applications into the cloud is now normal operating procedure.
 
-# Three Key Activities
+# Three Key Stages
 Each of the active migration phases `alpha`, `beta`, and `Live` requires execution of three key activities:
 
   * [Prepare](./Prepare/README.md)
