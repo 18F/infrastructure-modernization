@@ -2,7 +2,7 @@
 Documentation of a plan to take an agency into using a cloud-based infrastructure.
 
 # Overall Approach
-The cloud migration is broken down into four major phased:
+The cloud migration is broken down into four major phases:
 
 1. Discovery: The goal is to inventory the applications and services the agency wants to migrate.
 
